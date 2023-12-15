@@ -18,7 +18,7 @@ ___
 ## ※ Index ※
 ___
 ## 
-+ **Bond Pricing.**
++ **Heteroskedasticity.**
   + ARCH
   + GARCH
   + GARCH-M
